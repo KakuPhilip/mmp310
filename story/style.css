@@ -1,0 +1,13 @@
+#conditionTwo, #conditionThree, #conditionFour, #conditionFive, #conditionSix, #conditionSeven, #goodEnd, #badEnd {
+	display: none;
+    font-size: 20px;
+}
+
+#conditionOne {
+    font-size: 20px;
+}
+
+
+body{
+    background-color: cornsilk;
+}
