@@ -1,0 +1,31 @@
+img {
+	width: 100%;
+}
+
+.options {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	column-gap: 10px;
+}
+
+body{
+    background-color: cornsilk;
+    text-align: center;
+	margin: auto 7%;
+}
+
+p {
+	font-size: 25px;
+	color:coral;
+}
+
+.button {
+    background-color: firebrick;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 10px 2px;
+}
