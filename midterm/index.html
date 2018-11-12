@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+	<title>json api</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div id="container">
+		<h1>Giphy Search Engine</h1>
+        <p>Which animal do you like best?</p>
+		<input type="text" class="query" placeholder="animal">
+		
+		<p>what sport do you like the most?</p>
+		<input type="text" class="query" placeholder="sport">
+        
+		<p>What is your favourite food?</p>
+		<input type="text" class="query" placeholder="food">
+        
+		<h1>There are some Giphy for you</h1>
+		<p>(click to change a new one)</p>
+		<button type="button" class="button" onClick="refreshPage()">reset</button>
+		<div id="gifs"></div>
+	</div>
+	<script src="app.js"></script>
+</body>
+</html>
