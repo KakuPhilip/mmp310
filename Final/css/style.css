@@ -1,0 +1,14 @@
+img {
+	width: 100%;
+}
+
+body{
+    background-color: cornsilk;
+    text-align: center;
+	margin: auto 7%;
+}
+
+p {
+	font-size: 40px;
+	color:coral;
+}
