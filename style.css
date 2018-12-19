@@ -1,0 +1,42 @@
+
+img {
+	width: 100%;
+}
+
+body{
+    background-color: cornsilk;
+    text-align: center;
+	margin: auto 7%;
+	color:coral;
+	font-size: 18px;
+}
+
+ul {
+	padding:0;
+}
+
+.link {
+	display: inline-block;
+	padding-right: 1em;
+}
+
+.link a {
+	color: #eed460;
+}
+
+a {
+	color: lightgreen;
+	transition: color 500ms ease-in-out;
+}
+
+a:hover {
+	color: blue;
+}
+
+#container {
+	width: 600px;
+	margin: 0 auto;
+}
+
+
+
